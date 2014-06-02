@@ -1,0 +1,20 @@
+
+<ion-view title="Web Search">
+    <ion-content class="has-header" has-tabs="true" padding="true">
+        <div class="card">
+            <div style="margin-left:5px;">
+                <div class="item item-text-wrap">
+                    Enter a full website domain in the box below and click the 'Search' button to search the website.
+                </div>
+            </div>
+        </div>
+
+        <input ng-model="inputBox"> <br><br>
+        <button class="button button-balanced" ng-click="search(document.getElementById('inputBox'))">
+            Search
+        </button>
+
+    </ion-content>
+  </ion-view>
+
+

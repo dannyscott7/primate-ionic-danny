@@ -1,0 +1,25 @@
+
+<ion-view title="Evidence">
+    <ion-content>
+    <ul class="list">
+
+	  <li class="item item-checkbox" ng-repeat="evidence in evidences">
+	     <label class="checkbox">
+	       <input type="checkbox">
+	     </label>
+	     {{evidence.name}}
+	  </li>
+
+	</ul>
+
+
+    	<div class="padding">
+	        <button id="btnLogin" class="button button-block button-positive" ng-click="signIn(user)">
+	          Capture
+	        </button>
+      	</div>
+
+    </ion-content>
+  </ion-view>
+
+

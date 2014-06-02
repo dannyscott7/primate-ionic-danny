@@ -1,0 +1,14 @@
+<ion-view title="Observations">
+
+<ion-nav-buttons side="right">
+  <button class="button" ng-click="newObservation()">New</button>
+</ion-nav-buttons>
+
+  <ion-content class="has-header" has-tabs="true" padding="true">
+    <ion-list>
+      <ion-item ng-repeat="observation in observations" type="item-text-wrap" href="#/tab/observation/{{observation.mobileObservationID}}">
+        {{observation.title}}
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

@@ -1,0 +1,57 @@
+<ion-view title="Colors and Animation">
+    <br><br><br>
+    <button class="button">
+        Default
+    </button>
+    <button class="button button-light">
+        button-light
+    </button>
+    <button class="button button-stable">
+        button-stable
+    </button>
+    <button class="button button-positive">
+        button-positive
+    </button>
+    <button class="button button-calm">
+        button-calm
+    </button>
+    <button class="button button-balanced">
+        button-balanced
+    </button>
+    <button class="button button-energized">
+        button-energized
+    </button>
+    <button class="button button-assertive">
+        button-assertive
+    </button>
+    <button class="button button-royal">
+        button-royal
+    </button>
+    <button class="button button-dark">
+        button-dark
+    </button>
+    <div class="card">
+        <div style="margin-left:30px; width:100%;">
+        <div class="item item-text-wrap">
+            This is a basic Card which contains an item that has wrapping text.
+        </div>
+    </div>
+        <br>
+    <div ng-init="checked=true">
+        <div style="margin-left:30px; width:100%;">
+        <label>
+            <input type="checkbox" ng-model="checked" style="float:left; margin-right:10px;"> Is Visible?
+        </label>
+        <div class="check-element sample-show-hide" ng-show="checked" style="clear:both;">
+            Visible!
+        </div>
+        <br>
+    </div>
+    <p>
+    <div style="margin-left:30px; width:100%;">
+        <input type="button" value="Animate!" ng-click="myCssVar='css-class'">
+        <input type="button" value="Clear" ng-click="myCssVar=''">
+        <br><br><br>
+        <span ng-class="myCssVar">CSS-Animated Text!</span>
+    </p>
+</ion-view>

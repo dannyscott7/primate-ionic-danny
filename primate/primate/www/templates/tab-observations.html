@@ -1,0 +1,43 @@
+<ion-view title="AngularJS Filter Search">
+
+  <ion-content class="has-header" has-tabs="true" padding="true">
+
+      <div class="card">
+          <div style="margin-left:5px; width:100%;">
+              <div class="item item-text-wrap">
+                  Below is an example of the use of 'filter' in AngularJS.
+              </div>
+          </div>
+      </div>
+
+       <div ng-init="friends = [{name:'Orlando Bloom', phone:'12458'},
+                         {name:'Oliver Mahoney', phone:'94746'},
+                         {name:'Ben Scutt', phone:'38562'},
+                         {name:'Barbara Windsor', phone:'37598'},
+                         {name:'Jonny Booth', phone:'53758'},
+                         {name:'Liz Covatti', phone:'46378'},
+                         {name:'Oli J-L', phone:'84936'},
+                         {name:'Tobias Mahoney', phone:'94686'},
+                         {name:'Sarah Roe', phone:'14375'},
+                         {name:'Jessie See', phone:'93746'},
+                         {name:'Sarah Wilman', phone:'45637'},
+                         {name:'Amanda Acock', phone:'76539'},
+                         {name:'Gillian Anderson', phone:'13587'},
+                         {name:'Frank Butcher', phone:'82645'},
+                         {name:'Ann Yellow', phone:'63781'}]">
+                         </div>
+
+      Search: <input ng-model="search.$"> <br>
+      Name only: <input ng-model="search.name"><br>
+      Learner ID only: <input ng-model="search.phone"><br>
+      <br><hr><br>
+      <table id="searchObjResults">
+          <tr>Learners:</th>
+          <tr ng-repeat="friendObj in friends | filter:search:strict">
+              <td>{{friendObj.name}} </td>
+              <td>{{friendObj.phone}}</td>
+          </tr>
+      </table>
+
+  </ion-content>
+</ion-view>

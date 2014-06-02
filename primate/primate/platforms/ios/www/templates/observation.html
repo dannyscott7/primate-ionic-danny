@@ -1,0 +1,26 @@
+<ion-view title="{{observation.title}}">
+  <ion-content class="has-header" has-tabs="true" padding="true">
+	  <div class="list">
+		  <label class="item item-input item-stacked-label">
+		    <span class="input-label">Title</span>
+		    <input ng-model="observation.title" type="text" placeholder="Observation title">
+		  </label>
+		  <label class="item item-input item-stacked-label">
+		    <span class="input-label">Date</span>
+		    <input ng-model="observation.date" type="date" placeholder="02/09/1989">
+		  </label>
+		  <label class="item item-input item-stacked-label">
+		    <span class="input-label">Comments</span>
+		    <input ng-model="observation.comments" type="text" placeholder="Enter your comments">
+		  </label>
+	  </div>
+
+  	<button class="button button-full button-energized" ng-click="selectChildren()">
+	  Children ({{observation.children.length}})
+	</button>
+  	<button class="button button-full button-positive" ng-click="saveObservation()">
+	  Save
+	</button>
+
+  </ion-content>
+</ion-view>

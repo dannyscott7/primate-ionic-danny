@@ -1,0 +1,22 @@
+
+<ion-view title="Select Children">
+    <ion-content>
+
+  	<ul class="list">
+	  <li class="item item-checkbox" ng-repeat="child in children">
+	     <label class="checkbox">
+	       <input type="checkbox" ng-model="selection[$index]">
+	     </label>
+	     {{child.name}}
+	  </li>
+	</ul>
+
+
+	<div class="padding">
+        <button hide-me="isHidden" id="btnLogin" class="button button-block button-positive" ng-click="selectChildren()">
+          Select ({{observation.children.length}})
+        </button>
+  	</div>
+
+    </ion-content>
+  </ion-view>

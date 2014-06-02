@@ -1,0 +1,762 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dele",
+				"deleteObservation"
+			],
+			[
+				"tbl_ev",
+				"tbl_evidence"
+			],
+			[
+				"uplo",
+				"uploadingCount"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"evi",
+				"evi"
+			],
+			[
+				"in",
+				"included"
+			],
+			[
+				"con",
+				"contentType"
+			],
+			[
+				"onlin",
+				"onlineEvidenceID"
+			],
+			[
+				"upload",
+				"uploadsCompleted"
+			],
+			[
+				"upl",
+				"uploadCompletedCount"
+			],
+			[
+				"ob",
+				"observations"
+			],
+			[
+				"obser",
+				"observations"
+			],
+			[
+				"check",
+				"checkedCount"
+			],
+			[
+				"tbl_o",
+				"tbl_observation"
+			],
+			[
+				"upda",
+				"updateObservation"
+			],
+			[
+				"se",
+				"settingID"
+			],
+			[
+				"Set",
+				"SettingID"
+			],
+			[
+				"observ",
+				"observation"
+			],
+			[
+				"Obser",
+				"observationID"
+			],
+			[
+				"res",
+				"resposne"
+			],
+			[
+				"update",
+				"updateObservationData"
+			],
+			[
+				"asp",
+				"aspectID"
+			],
+			[
+				"tbl_obser",
+				"tbl_observation_x_aspect"
+			],
+			[
+				"updateObser",
+				"updateObservationAspects"
+			],
+			[
+				"delete",
+				"deleteObservationAspects"
+			],
+			[
+				"tbl",
+				"tbl_observation_x_aspect"
+			],
+			[
+				"tbl_observation_x",
+				"tbl_observation_x_aspect"
+			],
+			[
+				"Tbl_obse",
+				"tbl_observation_x_evidence"
+			],
+			[
+				"mob",
+				"mobileObservationID"
+			],
+			[
+				"reade",
+				"readEvidenceInObservation"
+			],
+			[
+				"mobil",
+				"mobileObservationID"
+			],
+			[
+				"tbl_evi",
+				"tbl_observation_x_evidence"
+			],
+			[
+				"mobile",
+				"mobileEvidenceID"
+			],
+			[
+				"mo",
+				"mobileEvidenceID"
+			],
+			[
+				"evic",
+				"evidence"
+			],
+			[
+				"chil",
+				"child"
+			],
+			[
+				"en",
+				"evidences"
+			],
+			[
+				"cil",
+				"child"
+			],
+			[
+				"child",
+				"children"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"ch",
+				"children"
+			],
+			[
+				"tbl_observation_",
+				"tbl_observation_x_user"
+			],
+			[
+				"win",
+				"window"
+			],
+			[
+				"pars",
+				"parseError"
+			],
+			[
+				"db",
+				"dbConnection"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"date",
+				"dateCreated"
+			],
+			[
+				"tel",
+				"telephoneMobile"
+			],
+			[
+				"tbl_obse",
+				"tbl_Observation_X_Area"
+			],
+			[
+				"eviden",
+				"evidence"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/JS Validation using Esprima/JsValidate.sublime-build",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/citruslounge/Sites/xprimate/www/js/pages/evidencePage.js",
+		"/Users/citruslounge/Sites/xprimate/www/js/pages/observationsPage.js",
+		"/Users/citruslounge/Sites/xprimate/platforms/ios/www/js/pages/evidencePage.js",
+		"/Users/citruslounge/Sites/xprimate/platforms/ios/build/device/PriMate.app/www/js/pages/evidencePage.js",
+		"/Users/citruslounge/Sites/xprimate/www/evidence.html",
+		"/Users/citruslounge/Sites/xprimate/www/observations.html",
+		"/Users/citruslounge/Sites/xprimate/www/js/pages/observationPage.js",
+		"/Users/citruslounge/Sites/xprimate/www/login.html",
+		"/Users/citruslounge/Sites/xprimate/www/js/classes/webservice.js",
+		"/Users/citruslounge/Sites/xprimate/www/js/pages/saveEvidencePage.js",
+		"/Users/citruslounge/Sites/xprimate/www/js/classes/evidence.js",
+		"/Users/citruslounge/Sites/xprimate/www/js/classes/util.js",
+		"/Users/citruslounge/Sites/xprimate/www/js/user.js",
+		"/Users/citruslounge/Sites/xprimate/www/observation.html",
+		"/Users/citruslounge/Sites/xprimate/www/js/classes/observation.js",
+		"/Users/citruslounge/Sites/xprimate/www/camera.html",
+		"/Users/citruslounge/Sites/xprimate/www/saveevidence.html",
+		"/Users/citruslounge/Sites/xprimate/www/home.html",
+		"/Users/citruslounge/Sites/xprimate/www/evidencepreview.html",
+		"/Users/citruslounge/Sites/xprimate/www/js/pages/loginPage.js",
+		"/Users/citruslounge/Sites/api/test.php",
+		"/Users/citruslounge/Sites/xprimate/www/js/pages/previewEvidencePage.js",
+		"/Users/citruslounge/Sites/xprimate/www/js/pages/homePage.js",
+		"/Users/citruslounge/Sites/xprimate/www/css/primate.css",
+		"/Users/citruslounge/Sites/xprimate/www/js/includes/tabmenu.js",
+		"/Users/citruslounge/Sites/xprimate/www/js/classes/user.js",
+		"/Users/citruslounge/Sites/xprimate/www/js/loginPage.js",
+		"/Users/citruslounge/Sites/xprimate/www/config.xml",
+		"/Users/citruslounge/Sites/xprimate/www/js/classes/database.js",
+		"/Users/citruslounge/Sites/xprimate/www/index.html",
+		"/Users/citruslounge/Sites/xprimate/www/js/observationlist.js",
+		"/Users/citruslounge/Sites/xprimate/www/js/evidencepreview.js",
+		"/Users/citruslounge/Sites/xprimate/www/listviews.html",
+		"/Users/citruslounge/Sites/xprimate/www/js/observation.js",
+		"/Users/citruslounge/Sites/xprimate/www/js/observationdetails.js",
+		"/Users/citruslounge/Sites/xprimate/www/js/saveevidence.js",
+		"/Users/citruslounge/Sites/xprimate/www/themes/Bootstrap.min.css",
+		"/Users/citruslounge/Downloads/1397242503_audio-volume-medium-panel.png",
+		"/Users/citruslounge/Sites/xprimate/platforms/android/AndroidManifest.xml",
+		"/Users/citruslounge/Sites/xprimate/platforms/android/res/xml/config.xml",
+		"/Users/citruslounge/Sites/xprimate/hooks/README.md",
+		"/Users/citruslounge/Sites/xprimate/www/reportlist.html",
+		"/Users/citruslounge/Sites/xprimate/www/css/styles.css",
+		"/Users/citruslounge/Sites/xprimate/www/index_old.html",
+		"/Users/citruslounge/Sites/xprimate/www/todo.js",
+		"/Users/citruslounge/Sites/xprimate/www/js/index.js",
+		"/Users/citruslounge/Desktop/chrome/Mobile releases/named manifest.json",
+		"/Users/citruslounge/Desktop/R&D/competition/Smart assessor/clents",
+		"/Users/citruslounge/Desktop/R&D/competition/Smart assessor/cl_script.py",
+		"/Users/citruslounge/Desktop/Test Subject.eml",
+		"/Users/citruslounge/Downloads/Aatu and 376 others.vcf",
+		"/Users/citruslounge/Google Drive/pp/app ws debug.txt",
+		"/Users/citruslounge/Sites/log.php",
+		"/Users/citruslounge/Music/iTunes/iTunes Media/Mobile Applications/TapestryMobile 2.0.0/Payload/TapestryMobile.app/www/index.html",
+		"/Users/citruslounge/Google Drive/greenpeace",
+		"/Users/citruslounge/Desktop/teste.txt",
+		"/Users/citruslounge/Sites/template/widgets.html",
+		"/Users/citruslounge/Sites/template/elements.html",
+		"/Users/citruslounge/Sites/template/tables.html",
+		"/Users/citruslounge/Sites/template/filedata.html",
+		"/Users/citruslounge/Sites/template/files.html",
+		"/Volumes/mobileuat/plans.xml",
+		"/Users/citruslounge/Desktop/R&D/python/nomad/base64.data",
+		"/Volumes/mobileuat/plans2.xml",
+		"/Users/citruslounge/Sites/Documents/php/connect.php",
+		"/Volumes/mobileuat/test.html",
+		"/tmp/subl stdin tjX9B2.txt",
+		"/Users/citruslounge/Documents/Android/nomad3/OneFileNomad3/jni/Application.mk",
+		"/Users/citruslounge/Documents/Android/nomad3/OneFileNomad3/jni/Android.mk",
+		"/Users/citruslounge/Documents/Android/nomad3/OneFileNomad3/jni/ffmpeg-test-jni.c",
+		"/Users/citruslounge/Desktop/audio_android_dev/android-ffmpeg-x264/README.textile",
+		"/Users/citruslounge/Sites/CAF/test.php",
+		"/Users/citruslounge/Sites/CAF/download.php",
+		"/Users/citruslounge/Sites/template/form-elements.html",
+		"/Users/citruslounge/Sites/rtc.htlm",
+		"/Users/citruslounge/Desktop/R&D/competition/Smart assessor/notes.rtf",
+		"/Volumes/Company/Development Team/!Projects/Mobile/Bug reports/OneFile Ignite - Android.txt",
+		"/Volumes/Company/Development Team/!Projects/Mobile/Bug reports/OneFile Ignite - iOS (iPhone & iPad).txt",
+		"/Volumes/Company/Development Team/!Projects/Mobile/Bug reports/OneFile Nomad - Android.txt",
+		"/Volumes/Company/Development Team/!Projects/Mobile/Bug reports/OneFile Nomad -iOS (iPhone & iPad).txt",
+		"/Users/citruslounge/Sites/template/index.html",
+		"/Users/citruslounge/Desktop/R&D/competition/Smart assessor/work.asp",
+		"/Users/citruslounge/Desktop/R&D/competition/Smart assessor/scripto",
+		"/Users/citruslounge/Desktop/R&D/competition/Smart assessor/csvGrab.asp",
+		"/Users/citruslounge/Desktop/R&D/competition/Smart assessor/clients.csv",
+		"/Users/citruslounge/Desktop/R&D/competition/Smart assessor/website exploration/clientgateway.asp",
+		"/Users/citruslounge/Desktop/R&D/competition/Smart assessor/website exploration/database names",
+		"/Users/citruslounge/Desktop/R&D/competition/Smart assessor/website exploration/login.asp",
+		"/Users/citruslounge/Desktop/R&D/competition/Smart assessor/website exploration/connect.inc",
+		"/Users/citruslounge/Desktop/R&D/competition/Smart assessor/website exploration/db.conf.asp",
+		"/Users/citruslounge/Desktop/R&D/competition/Smart assessor/website exploration/ZSuperAdmin.asp",
+		"/Users/citruslounge/Desktop/R&D/competition/Smart assessor/website exploration/ZAdmin.asp",
+		"/Users/citruslounge/Desktop/R&D/competition/Smart assessor/website exploration/adminsessions.asp",
+		"/Users/citruslounge/Desktop/R&D/competition/Smart assessor/website exploration/browseuserspassword.asp",
+		"/Users/citruslounge/Desktop/R&D/competition/Smart assessor/website exploration/processadminunits.asp",
+		"/Users/citruslounge/Desktop/R&D/competition/Smart assessor/website exploration/EvidenceFile.asp",
+		"/Users/citruslounge/Desktop/R&D/competition/Smart assessor/website exploration/MaterialFile.asp",
+		"/Users/citruslounge/Desktop/R&D/competition/Smart assessor/website exploration/evidence_library.asp",
+		"/Users/citruslounge/Desktop/R&D/competition/Smart assessor/accounts.txt",
+		"/Users/citruslounge/Desktop/R&D/competition/Smart assessor/website exploration/upload.asp",
+		"/Users/citruslounge/Desktop/R&D/competition/Smart assessor/TCP sniffs/learners and sessions",
+		"/Users/citruslounge/Sites/forms/index2.html",
+		"/Users/citruslounge/Sites/signature.js",
+		"/~:Library:Application Support:Sublime Text 2:Packages:User:"
+	],
+	"find":
+	{
+		"height": 47.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/citruslounge/Sites/xprimate/www"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getObservationFromID",
+			"btndelete",
+			"uploadEvidence",
+			"myEvidencePopupDialog",
+			"uploadevid",
+			"uploadEvidence",
+			"uploadev",
+			"uploade\n",
+			"uploadEvidence",
+			"uploadevi",
+			"deleteObservationFinished",
+			"readObservationFinished",
+			"uploadSuccess",
+			"getEvidenceFromArray",
+			"checkbox",
+			"insertObservationFinished",
+			"\\\"",
+			"\"",
+			"                                  ",
+			"ce",
+			"                                  ",
+			"uploadObservation",
+			"updateObservation",
+			"\\\"",
+			"until.",
+			"saveEvidence",
+			"updateevid",
+			"updateEvidence",
+			"saveEvidence",
+			"tbl_evidence",
+			"saveEvidence",
+			"renderObservation",
+			"updateObservationData",
+			"observationComments",
+			"isIntInArray",
+			"tbl_observation_x_aspect",
+			"tbl_observation_x_evidence",
+			"updateObservationAspects",
+			"getEvidenceFromArray",
+			"aspects",
+			"evidences",
+			"window.evidence",
+			"getEvidenceFromArray",
+			"check-aspect",
+			"getEvidenceFromArray",
+			"updateObservationAspects",
+			"updateobservationas",
+			"tbl_observation_x_aspect",
+			"manage feel",
+			"readObservationAspects",
+			"aspects",
+			"readobservation(",
+			"tbl_observation_x_aspect",
+			"deleteObservationEvidence",
+			"updateObservationEvidence",
+			"deleteObservationEvidence",
+			"saveobservation",
+			"updateObservationEvidence",
+			"deleteobservation",
+			"readEvidenceInObservation",
+			"getEvidenceFromArray",
+			"tbl_observation_x_evidence",
+			"updateObservationChildren",
+			"saveObservation",
+			"Response Data:",
+			": Response Data:",
+			"INERT",
+			"user updated with mobileID:",
+			"createUser",
+			"localuserID",
+			"getChildrenInObservation",
+			"badge-page1",
+			"getChildrenInObservation",
+			"Getting children for obs. Record coun",
+			"getUserUsingOnlineID",
+			"deleteObservationChildren",
+			"TODO: add array data",
+			"cancel",
+			"Saving observation:",
+			"TODO: add array data",
+			"offlineUserCheck",
+			"getChildFromID",
+			"renderObservation",
+			"tbl_observation_x_user",
+			"getChildrenInObservation",
+			"readevidence",
+			"updateObservationChildren",
+			"child.mobileUserID",
+			"getChildren",
+			"updateObservationChildren",
+			"observation inserted with localI",
+			"updateObservationChildren",
+			"tbl_observation",
+			"tbl_observatopn",
+			"updateObservationChildren",
+			"populateDB",
+			"transaction_error",
+			"tbl_observation_x_user",
+			"badge-page1",
+			"updateObservation",
+			"                                  ",
+			"readEvidenceFinishedCallback",
+			"user updated with mobileID:",
+			"mobileUserID",
+			"Updating child:",
+			"Updating user:",
+			"createUser",
+			"OneFile database erro",
+			"parseChildren",
+			"getUserUsingOnlineID",
+			"readFinsihedCallback",
+			"getUserUsingOnlineID",
+			"parseChildren",
+			"downloadChildren",
+			"parseChildren",
+			"username",
+			"populateDB",
+			"e.evidence",
+			"//",
+			"observationList",
+			"notification.aler",
+			"getObservations_success",
+			"getObservation",
+			"success",
+			"dateOfStarted",
+			"dateOfModified",
+			"dateOfCreated",
+			"evidenceType"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"evidences",
+				"platforms/ios/www/js/pages/evidencePage.js"
+			],
+			[
+				"eviedncepage",
+				"platforms/ios/build/device/PriMate.app/www/js/pages/evidencePage.js"
+			],
+			[
+				"evidece.",
+				"www/evidence.html"
+			],
+			[
+				"loginpage",
+				"www/js/pages/loginPage.js"
+			],
+			[
+				"login.",
+				"www/login.html"
+			],
+			[
+				"observationpa",
+				"www/js/pages/observationPage.js"
+			],
+			[
+				"evidencepage",
+				"www/js/pages/evidencePage.js"
+			],
+			[
+				"evidencepa",
+				"www/js/pages/evidencePage.js"
+			],
+			[
+				"observation",
+				"www/observation.html"
+			],
+			[
+				"evidence",
+				"www/evidence.html"
+			],
+			[
+				"observationsp",
+				"www/js/pages/observationsPage.js"
+			],
+			[
+				"webservice",
+				"www/js/classes/webservice.js"
+			],
+			[
+				"saveevidence",
+				"www/js/pages/saveEvidencePage.js"
+			],
+			[
+				"evidence.",
+				"www/js/classes/evidence.js"
+			],
+			[
+				"util.",
+				"www/js/classes/util.js"
+			],
+			[
+				"evidence.j",
+				"www/js/classes/evidence.js"
+			],
+			[
+				"observationp",
+				"www/js/pages/observationPage.js"
+			],
+			[
+				"observationspa",
+				"www/js/pages/observationsPage.js"
+			],
+			[
+				"observ",
+				"www/observations.html"
+			],
+			[
+				"loginpa",
+				"www/js/pages/loginPage.js"
+			],
+			[
+				"login",
+				"www/login.html"
+			],
+			[
+				"pre",
+				"www/js/pages/previewEvidencePage.js"
+			],
+			[
+				"prev",
+				"www/js/pages/previewEvidencePage.js"
+			],
+			[
+				"observatio",
+				"www/observation.html"
+			],
+			[
+				"user.",
+				"www/js/user.js"
+			],
+			[
+				"previewevi",
+				"www/js/pages/previewEvidencePage.js"
+			],
+			[
+				"observatiop",
+				"www/js/pages/observationPage.js"
+			],
+			[
+				"observa",
+				"www/observations.html"
+			],
+			[
+				"home.",
+				"www/home.html"
+			],
+			[
+				"homepa",
+				"www/js/pages/homePage.js"
+			],
+			[
+				"observationpage",
+				"www/js/pages/observationPage.js"
+			],
+			[
+				"home.html",
+				"www/home.html"
+			],
+			[
+				"obser",
+				"www/observation.html"
+			],
+			[
+				"utils",
+				"www/js/classes/util.js"
+			],
+			[
+				"database",
+				"www/js/classes/database.js"
+			],
+			[
+				"webserv",
+				"www/js/classes/webservice.js"
+			],
+			[
+				"webser",
+				"www/js/classes/webservice.js"
+			],
+			[
+				"observation.",
+				"www/js/classes/observation.js"
+			],
+			[
+				"observations",
+				"www/observations.html"
+			],
+			[
+				"evidencep",
+				"www/js/pages/evidencePage.js"
+			],
+			[
+				"evidence.js",
+				"www/js/classes/evidence.js"
+			],
+			[
+				"home",
+				"www/js/pages/homePage.js"
+			],
+			[
+				"data",
+				"www/js/classes/database.js"
+			],
+			[
+				"util",
+				"www/js/classes/util.js"
+			],
+			[
+				"lo",
+				"www/js/loginPage.js"
+			],
+			[
+				"saveevi",
+				"www/saveevidence.html"
+			],
+			[
+				"observationdetails",
+				"www/js/observationdetails.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true
+}

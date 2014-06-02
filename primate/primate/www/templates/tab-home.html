@@ -1,0 +1,115 @@
+<ion-view title="Ionic">
+
+    <ion-content class="has-header" has-tabs="true" padding="true">
+    <div class="card">
+        <div style="margin-left:5px; width:100%;">
+            <div class="item item-text-wrap">
+                Click on the buttons below to change the color theme.
+            </div>
+        </div>
+    </div>
+
+    <div class="button-bar">
+        <button class="button button-light" ng-click="light()">
+        <button class="button button-stable" ng-click="stable()">
+        <button class="button button-positive" ng-click="positive()">
+        <button class="button button-calm" ng-click="calm()">
+        <button class="button button-balanced" ng-click="balanced()">
+        <button class="button button-energized" ng-click="energized()">
+        <button class="button button-assertive" ng-click="assertive()">
+        <button class="button button-royal" ng-click="royal()">
+        <button class="button button-dark" ng-click="dark()">
+    </div>
+
+    <div class="card">
+        <div style="margin-left:5px; width:100%;">
+            <div class="item item-text-wrap">
+                Below are some examples of animations.
+            </div>
+        </div>
+    </div>
+
+    <div ng-init="checked=true">
+        <div style="margin-left:30px; width:100%;">
+        <label>
+            <input type="checkbox" ng-model="checked" style="float:left; margin-right:10px;"> Is Visible?
+        </label>
+        <div class="check-element sample-show-hide" ng-show="checked" style="clear:both;">
+            Visible!
+        </div>
+        <br>
+    </div>
+    </div>
+    <p>
+    <div style="margin-left:30px; width:100%;">
+        <input type="button" value="Animate!" ng-click="myCssVar='css-class'">
+        <input type="button" value="Clear" ng-click="myCssVar=''">
+        <br><br><br>
+        <span ng-class="myCssVar">CSS-Animated Text!</span>
+    </div>
+    </p>
+
+    <div class="card">
+        <div style="margin-left:5px; width:100%;">
+            <div class="item item-text-wrap">
+                Below are some further examples of what is possible using the Ionic Framework.
+            </div>
+        </div>
+    </div>
+
+    <div class="range">
+        <i class="icon ion-volume-low"></i>
+        <input type="range" name="volume">
+        <i class="icon ion-volume-high"></i>
+    </div>
+
+    <div class="list">
+        <div class="item range range-positive">
+            <i class="icon ion-ios7-sunny-outline"></i>
+            <input type="range" name="volume" min="0" max="100" value="33">
+            <i class="icon ion-ios7-sunny"></i>
+        </div>
+    </div>
+
+        <ul class="list">
+            <li class="item item-toggle">
+                HTML5
+                <label class="toggle toggle-assertive">
+                    <input type="checkbox">
+                    <div class="track">
+                        <div class="handle"></div>
+                    </div>
+                </label>
+            </li>
+        </ul>
+
+        <ul class="list">
+
+            <li class="item item-checkbox">
+                <label class="checkbox">
+                    <input type="checkbox">
+                </label>
+                Nomad
+            </li>
+            <li class="item item-checkbox">
+                <label class="checkbox">
+                    <input type="checkbox">
+                </label>
+                Ignite
+            </li>
+        </ul>
+
+        <ion-slide-box on-slide-changed="slideHasChanged($index)">
+            <ion-slide>
+                <div class="box blue"><h1>THIS</h1></div>
+            </ion-slide>
+            <ion-slide>
+                <div class="box yellow"><h1>IS</h1></div>
+            </ion-slide>
+            <ion-slide>
+                <div class="box pink"><h1>IONIC</h1></div>
+            </ion-slide>
+        </ion-slide-box>
+
+        </ion-content>
+</ion-view>
